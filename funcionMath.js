@@ -14,7 +14,7 @@ console.log(Math.PI+numero2);//4.141592653589793
 console.log("Prueba E:")
 console.log(Math.E);//2.718281828459045
 console.log(Math.E+numero2);//3.718281828459045
-
+//
 //Valor absoluto de un numero:
 console.log("Prueba valor absoluto:")
 console.log(numero3);//10
