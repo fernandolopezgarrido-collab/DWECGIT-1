@@ -100,8 +100,12 @@ console.log("Prueba trim:");
 console.log(string7);//   Que calor hace hoy
 console.log(string7.trim());//Que calor hace hoy
 
-//Elimina los espacios en blanco
+//Rellena la cadena por la izquierda con la cadena indicada hasta alcanzar la longitud indicada
 console.log("Prueba padStart:");
-console.log(string1);//   Que calor hace hoy
-console.log(string1.padStart(5,"-"));
+console.log(string1);//Hola buenos dias, que tal
+console.log(string1.padStart(30,"-"));//-----Hola buenos dias, que tal
 
+//Rellena la cadena por la derecha hasta alcanzar la longitud indicada
+console.log("Prueba padEnd:");
+console.log(string2); //Yo bien
+console.log(string2.padEnd(15, ".")); //Yo bien.........
