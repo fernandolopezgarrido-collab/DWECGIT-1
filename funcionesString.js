@@ -72,6 +72,7 @@ console.log(string1.startsWith("Hola"));//true
 
 //Determina si un string contiene otro string
 console.log("Prueba includes:");
+//COMPROBACION CAMBIO DE CUENTA GIT
 console.log(string1);//Hola buenos dias, que tal
 console.log(string4);//DEPORTE
 console.log(string1.includes(string4));//false
