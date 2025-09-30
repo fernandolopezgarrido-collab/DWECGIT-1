@@ -55,7 +55,7 @@ console.log("Prueba getTime:");
 console.log(fechaCompuesta);//Mon Sep 29 2025 16:30:00 GMT+0200 (hora de verano de Europa central)
 console.log(fechaCompuesta.getTime());//1759156200000
 
-//Modifican la fecha
+//Modifican la fechaa
 console.log("Prueba sets:")
 console.log("Fecha anterior  :",fechaCompuesta);
 fechaCompuesta.setFullYear(2030);
